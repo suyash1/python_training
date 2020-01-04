@@ -6,3 +6,7 @@ if (a=b):
 	pass
 else:
 	print("fail")
+if (a!=b):
+	print("try again")
+else:
+	print("pass")
